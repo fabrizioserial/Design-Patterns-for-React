@@ -4,13 +4,14 @@ _By Fabrizio Serial_
 
 ![](https://github.com/fabrizioserial/Design-Patterns-for-React/blob/main/main-background.png?raw=true)
 
-This project shows how can we apply Design Patterns to React. All of them has a Readme file where you can find the description of the pattern
-and the disadvantage of use it!
+This project shows how can we apply Design Patterns to React. All of them has a Readme file where you can find the 
+description of the pattern and the disadvantage of use it!
 
 ## What is a Design Pattern?
 
-A design pattern is a core of solution to a problem, that you can use it a million times over, without doing it the same
-way twice. The pattern has four essentials elements:
+Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of 
+the solution to that problem, in such a way that you can use this solution a million times over, without ever 
+doing it the same way twice. The pattern has four essentials elements:
 
 ### Name
 
@@ -32,6 +33,16 @@ elements to solve the problem.
 
 Are the results and trade-oggs of applying the pattern. They are critical for evaluating design alternatives and for understanding
 the costs and benefits of applying the pattern
+
+## Principles
+
+- SOLID
+  - Single Responsibility Principle
+  - Open-closed Principle
+  - Liskov Substitution Principle
+  - Interface Segregation Principle
+  - Dependency Inversion Principle
+
 
 ## Patterns
 
