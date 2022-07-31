@@ -2,7 +2,7 @@
 
 _By Fabrizio Serial_
 
-![](/Users/fabrizioserial/Desktop/Artemis_Project/FabroStudio/design-patterns-react/main-background.png)
+![](https://github.com/fabrizioserial/Design-Patterns-for-React/blob/main/main-background.png?raw=true)
 
 This project shows how can we apply Design Patterns to React. All of them has a Readme file where you can find the description of the pattern
 and the disadvantage of use it!
