@@ -9,7 +9,7 @@ const RocketList = () => {
 
   useEffect(() => {
     (async () => setRocketList(await getRockets()))();
-  });
+  },[]);
 
   return (
     <StyledRocketListContainer>
