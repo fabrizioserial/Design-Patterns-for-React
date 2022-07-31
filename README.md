@@ -37,8 +37,8 @@ the costs and benefits of applying the pattern
 ## Principles
 
 - SOLID
-  - [ ] Single Responsibility Principle
-  - [ ] Open-closed Principle
+  - [x] Single Responsibility Principle
+  - [x] Open-closed Principle
   - [ ] Liskov Substitution Principle
   - [ ] Interface Segregation Principle
   - [ ] Dependency Inversion Principle
