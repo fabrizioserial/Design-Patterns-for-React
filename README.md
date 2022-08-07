@@ -39,16 +39,16 @@ the costs and benefits of applying the pattern
 - SOLID
   - [x] Single Responsibility Principle
   - [x] Open-closed Principle
-  - [ ] Liskov Substitution Principle
-  - [ ] Interface Segregation Principle
-  - [ ] Dependency Inversion Principle
+  - [x] Liskov Substitution Principle
+  - [x] Interface Segregation Principle
+  - [x] Dependency Inversion Principle
 
 
 ## Patterns
 
-- [ ] Singleton
-- [ ] Proxy 
-- [ ] Provider
+- [ ] ~~Singleton~~
+- [x] Proxy 
+- [x] Provider
 - [ ] Prototype
 - [ ] Presentational
 - [ ] Observer
