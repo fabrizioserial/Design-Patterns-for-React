@@ -37,13 +37,29 @@ the costs and benefits of applying the pattern
 ## Principles
 
 - SOLID
-  - Single Responsibility Principle
-  - Open-closed Principle
-  - Liskov Substitution Principle
-  - Interface Segregation Principle
-  - Dependency Inversion Principle
+  - [x] Single Responsibility Principle
+  - [x] Open-closed Principle
+  - [x] Liskov Substitution Principle
+  - [x] Interface Segregation Principle
+  - [x] Dependency Inversion Principle
 
 
 ## Patterns
 
-- Singleton
+- [ ] ~~Singleton~~
+- [x] Proxy 
+- [x] Provider
+- [ ] Prototype
+- [ ] Presentational
+- [ ] Observer
+- [ ] Module
+- [ ] Mixin
+- [ ] Middelware
+- [ ] Render Props
+- [ ] Hooks
+- [ ] High Order Components (HOC)
+- [ ] Flyweight
+- [ ] Factory
+- [ ] Compound
+- [ ] Command
+- [ ] PRPl 
