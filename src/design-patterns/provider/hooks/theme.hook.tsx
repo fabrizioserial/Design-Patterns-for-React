@@ -2,7 +2,6 @@ import {useContext} from "react";
 import {ThemeContext} from "../StyleThemeProvider";
 
 const useThemeContext = () => {
-    const theme = useContext(ThemeContext);
-    return theme;
+    return useContext(ThemeContext);
 }
 export default useThemeContext
