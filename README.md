@@ -53,4 +53,3 @@ the costs and benefits of applying the pattern
 - [ ] Hooks
 - [x] High Order Components (HOC)
 - [x] Compound
-- [x] Injection
