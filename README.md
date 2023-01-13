@@ -49,7 +49,7 @@ the costs and benefits of applying the pattern
 - [ ] ~~Singleton~~
 - [x] Proxy 
 - [x] Provider
-- [ ] Prototype
+- [ ] ~~Prototype~~
 - [ ] Presentational
 - [ ] Observer
 - [ ] Module
@@ -57,9 +57,9 @@ the costs and benefits of applying the pattern
 - [ ] Middelware
 - [ ] Render Props
 - [ ] Hooks
-- [ ] High Order Components (HOC)
+- [x] High Order Components (HOC)
 - [ ] Flyweight
 - [ ] Factory
-- [ ] Compound
+- [x] Compound
 - [ ] Command
 - [ ] PRPl 
