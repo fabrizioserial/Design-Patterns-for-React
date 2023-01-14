@@ -31,7 +31,7 @@ elements to solve the problem.
 
 ### Consequences
 
-Are the results and trade-oggs of applying the pattern. They are critical for evaluating design alternatives and for understanding
+Are the results and trade-offs of applying the pattern. They are critical for evaluating design alternatives and for understanding
 the costs and benefits of applying the pattern
 
 ## Principles
@@ -50,6 +50,6 @@ the costs and benefits of applying the pattern
 - [x] Provider
 - [x] Presentational
 - [ ] Render Props
-- [ ] Hooks
+- [x] Hooks
 - [x] High Order Components (HOC)
 - [x] Compound
